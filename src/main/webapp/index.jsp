@@ -4,6 +4,6 @@
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World test on 2qa");
+		System.out.println("Hello World test on new workqa");
 	}
 }
